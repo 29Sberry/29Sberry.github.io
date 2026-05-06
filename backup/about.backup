@@ -2,20 +2,28 @@
 <HTML>
 <head>
     <title>Sydney's Webpage</title>
+     <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bitcount+Prop+Single:wght@100..900&display=swap" rel="stylesheet">
+ <link rel="stylesheet" href="css/style.css">   
 </head>
 
 <body>
     <header>
-        <h1>Syd's Webpage</h1>
+        <h1>Sample Webpage</h1>
         <nav>
             <details>
                 <summary>Navigation Bar</summary>
                 <ul>
-                    <li><a href="practice_index.html">Home Page</a></li>
+                    <li><a href="index.html">Home Page</a></li>
                     <li><a href="about.html">About Page</a></li>
                     <li><a href="GetToSchool7/index.html">Game Page</a></li>
-                    <li><a href="https://en.wikipedia.org/wiki/PinkPantheress">Favorite Music Artist</a></li>
-                </ul>
+                    <li><a href="https://en.wikipedia.org/wiki/PinkPantheress">PinkPantheress</a></li>
+</head>
+
+<body>
+    <header>
+        
             </details>
         </nav>
     </header>
